@@ -1,3 +1,5 @@
+this is a new branch called gotoanew
+
 this is a text
 to learn how
 to use git and
