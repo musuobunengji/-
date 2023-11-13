@@ -2,3 +2,6 @@ this is a text
 to learn how
 to use git and
 github
+ok it maybe a little difficult
+but don't worry
+everything will be ok
